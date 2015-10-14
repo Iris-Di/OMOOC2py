@@ -1,4 +1,4 @@
-# github 私人教程
+# Github与Gitbook的
 
 ## 背景
 

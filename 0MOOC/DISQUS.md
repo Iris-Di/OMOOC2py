@@ -11,7 +11,16 @@
 1. 打开Gitbook网络页面，打开需要添加插件的书的编辑页面
 2. 点击settings旁边的下拉菜单，在Plugins中点击Find Plugins，找到并打开[Disqus
 ](https://plugins.gitbook.com/plugin/disqus)
-3. 由于安装Disqus时没有安装Node，
+3. 由于安装Disqus时没有安装Node，尝试直接将book.json中的内容替换成
+    
+        {
+           "plugins": ["disqus"],
+           "pluginsConfig": {
+                "disqus": {
+                    "shortName": "XXXXXXX"
+                }
+            } 
+        }
 
 ## 使用
 

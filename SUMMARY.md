@@ -6,6 +6,7 @@
    * [Github与Gitbook的联动](oMOOC/github.md)
    * [Gitbook添加Disqus评论插件](oMOOC/DISQUS.md)
    * [Python安装/配置](oMOOC/py.md)
+   * 反馈
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)

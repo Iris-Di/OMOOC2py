@@ -9,7 +9,7 @@
 1. 在Gitbook中create a new book
 2. 点击书名进入新书，在settings的Github中，根据[the GitHub integration](https://help.gitbook.com/github/index.html)及操作提示完成对Github Repository的设置后保存。
 3. 在Integration中Add webhook后保存。
-4. 点击Export to Github，输入需要在Github中import的Gitbook的URL,并将Repo设为Public。
+4. 点击Export to Github，Check需要在Github中import的Gitbook的URL,选择GitbubID/Repo,并将其设为Public。
 
 如果关联不成功，在Gitbook-settings-Gitbub中，可以检查
 Github账号是否允许与私人或公共账号关联，webhook是否能够把Gitbook的变动push到关联的Repo，更改错误。

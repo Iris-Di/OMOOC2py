@@ -15,7 +15,7 @@
 
           点击create a new book后，在GITHUB而不是BASIC中输入Title，并选择需要对应的GithubID/Repo
 
-2.点击书名进入新书，在settings的Github中，根据[the GitHub integration](https://help.gitbook.com/github/index.html)及操作提示完成对Github Repository的设置后保存。
+2.点击书名进入新书，在settings的Github中，根据[the GitHub integration操作指南](https://help.gitbook.com/github/index.html)及操作提示完成对Github Repository的设置后保存。
 
 3.在Integration中Add webhook后保存。
 

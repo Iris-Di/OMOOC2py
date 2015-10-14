@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "disqus",
-        "ipod"
+        "disqus"
     ],
     "pluginsConfig": {
         "disqus": {

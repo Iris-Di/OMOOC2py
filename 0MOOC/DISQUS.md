@@ -9,8 +9,8 @@
 
 ## 配置
 1. 打开Gitbook网络页面，打开需要添加插件的书的编辑页面
-2. 点击settings旁边的下拉菜单，在Plugins中点击Find Plugins，找到Disqus，打开
-3. 
+2. 点击settings旁边的下拉菜单，在Plugins中点击Find Plugins，找到并打开[Disqus
+](https://plugins.gitbook.com/plugin/disqus)
 ## 使用
 
 ## 体验

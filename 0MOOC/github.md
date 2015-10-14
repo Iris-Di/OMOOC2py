@@ -4,7 +4,7 @@
 
 ## 安装
 **
-如需Gitbook中的新书与Github中新的 Respository关联**
+如需建立Gitbook中的新书与Github中新的 Respository关联**
 
 1. 在Gitbook中create a new book
 2. 点击书名进入新书，在settings的Github中，根据[the GitHub integration](https://help.gitbook.com/github/index.html)及操作提示完成对Github Repository的设置后保存。

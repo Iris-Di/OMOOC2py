@@ -3,9 +3,12 @@
 ## 背景
 
 ## 安装
+1. 打开[Disqus](https://disqus.com/)，注册账号，登陆
+2. 点击Settings中的Add Disqus To Site
+3. 点击Start Using Engage,填写Site profile
 
 ## 配置
-
+1. 打开Gitbook网络页面，打开需要添加插件的书的编辑页面，
 ## 使用
 
 ## 体验

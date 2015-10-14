@@ -21,8 +21,7 @@
 
 4.点击Export to Github，Check需要在Github中import的Gitbook的URL，创建新的GitbubID/Repo,并将其设为Public。
 
-如关联不成功，在Gitbook-settings-Gitbub中，可以检查
-Github账号是否允许与私人或公共账号关联，webhook是否能够把Gitbook的变动push到关联的Repo，更改错误。
+      如关联不成功，在Gitbook-settings-Gitbub中，可以检查Github账号是否允许与私人或公共账号关联，webhook是否能够把Gitbook的变动push到关联的Repo，更改错误。
 
 ## 配置
 

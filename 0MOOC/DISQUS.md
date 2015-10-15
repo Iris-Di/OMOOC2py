@@ -21,6 +21,7 @@
                 }
             } 
         }
+shortName为Site profile中所填Site Name
 4. 点击Plugins,其中出现Disqus,评论插件安装成功
 
 ## 使用

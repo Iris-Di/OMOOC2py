@@ -13,6 +13,6 @@ Git命令行学习：
 
 [GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
-Pro Git
+[Pro Git](http://git-scm.com/book/en/v2)
 ## 体验
 

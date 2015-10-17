@@ -3,7 +3,7 @@
 * [介绍](README.md)
 * [教学反转](0MOOC/README.md)
    * [Markdown](0MOOC/md.md)
-   * Git
+   * [Git](0MOOC/git.md)
    * [Github与Gitbook的联动](0MOOC/github.md)
    * [Gitbook添加Disqus评论插件](0MOOC/DISQUS.md)
    * [Python安装/配置](0MOOC/py.md)

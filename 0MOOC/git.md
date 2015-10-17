@@ -7,6 +7,6 @@
 ## 配置
 
 ## 使用
-在本地推送Github和Gitbook
+在本地[推送Github仓库](https://help.github.com/articles/set-up-git/)和[更新Gitbook](https://help.gitbook.com/build/push.html)
 ## 体验
 

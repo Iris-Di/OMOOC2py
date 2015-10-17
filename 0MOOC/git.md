@@ -8,5 +8,7 @@
 
 ## 使用
 在本地[推送Github仓库](https://help.github.com/articles/set-up-git/)和[更新Gitbook](https://help.gitbook.com/build/push.html)
+
+Git命令行学习：[GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 ## 体验
 

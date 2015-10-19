@@ -13,7 +13,6 @@ print txt.read()
 print "How are you today?" 
 content = raw_input(">")
 
-
 txt.write(otherStyleTime)
 txt.write("\n")
 txt.write(content)

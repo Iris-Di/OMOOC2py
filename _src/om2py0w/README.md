@@ -18,7 +18,7 @@
 
 
 ### 写代码：
-靠学过的[Learn Python the Hard Way Exercise 16](http://learnpythonthehardway.org/book/ex16.html)中的知识点就能解决大多数问题，还算顺利的完成了基本的框架，在Windows系统中还待解决读取txt文档显示的问题，不懂的情况下乱试了encoding/decoding，回家看看任务概述后的提示卡片，拿Mac再实验下。
+靠学过的[Learn Python the Hard Way Exercise 16](http://learnpythonthehardway.org/book/ex16.html)中的知识点就能解决大多数问题，还算顺利的完成了基本的框架，在Windows系统中还待解决读取txt文档显示的问题，不懂的情况下乱试了encoding/decoding，果然是没有效的...回家看看任务概述后的提示卡片，拿Mac再实验下。
 
 
 

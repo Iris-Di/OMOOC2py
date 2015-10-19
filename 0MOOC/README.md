@@ -8,4 +8,4 @@
 - 151012 Gitbook添加Disqus评论插件
 - 151013 Github与Gitbook的互推（调用已存在的Github Repo)
 - 151017 Week1课堂笔记
-- 151019 Diaryy尝试
+- 151019 Diary尝试

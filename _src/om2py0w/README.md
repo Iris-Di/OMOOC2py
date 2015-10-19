@@ -24,7 +24,7 @@
 
 
 ## 改进
-* 去看了昨晚已经提交作业的Zoe的[小小日记](https://github.com/OpenMindClub/OMOOC2py/issues/26)，从来没有考虑到可以用if...else语序解决问题的可能性。
+* 去看了昨晚已经提交作业的Zoe的[小小日记](https://github.com/OpenMindClub/OMOOC2py/issues/26)，自己从来没有考虑到可以用if...else语序解决问题的可能性哪。
 
 
 

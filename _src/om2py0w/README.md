@@ -20,7 +20,7 @@
 
 
 ### 写代码：
-靠学过的[Learn Python the Hard Way Exercise 16](http://learnpythonthehardway.org/book/ex16.html)中的知识点就能解决大多数问题，所以还算顺利的完成了基本的框架，在Windows系统中还待解决读取txt文档显示的问题，尝试了encoding/decoding
+靠学过的[Learn Python the Hard Way Exercise 16](http://learnpythonthehardway.org/book/ex16.html)中的知识点就能解决大多数问题，所以还算顺利的完成了基本的框架，在Windows系统中还待解决读取txt文档显示的问题，尝试了encoding/decoding，不懂还是不要乱试了，回家再查些资料拿Mac再实验下。
 
 
 

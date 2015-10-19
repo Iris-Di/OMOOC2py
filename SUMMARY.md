@@ -8,7 +8,7 @@
    * [Gitbook添加Disqus评论插件](0MOOC/DISQUS.md)
    * [Python安装/配置](0MOOC/py.md)
    * [Week1课堂笔记](0MOOC/week1.md)
-   * [Diary](_src/om2py0w/README.md)
+   * [极简交互式日记](_src/om2py0w/README.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)

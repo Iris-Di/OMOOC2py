@@ -20,7 +20,7 @@
 
 ## 写代码：
 * 靠学过的[Learn Python the Hard Way Exercise 16](http://learnpythonthehardway.org/book/ex16.html)中的知识点就能解决大多数问题，还算顺利的完成了基本的框架，在Windows系统中还待解决读取txt文档显示的问题，不懂的情况下乱试了encoding/decoding，果然是没有效的...回家看看任务概述后的提示卡片，拿Mac再实验下。
-* 被a+，r+，w+能否创建新的txt文件所困扰，很不优雅的解决了问题，可以在Mac上成功运行Diary.py。
+* 被a+，r+，w+能否创建新的txt文件所困扰，很不优雅的解决了问题，可以在Mac上成功运行Diary.py，
 
 
 ## 待改进

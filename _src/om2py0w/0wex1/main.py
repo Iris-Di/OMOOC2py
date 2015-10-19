@@ -14,7 +14,7 @@ txt.write("\n")
 txt.write(content)
 txt.write("\n")
 
-text.close 
+tet.close 
 
 print "Here's your diary:"
 print txt.read()

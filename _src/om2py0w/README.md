@@ -24,6 +24,7 @@
 
 
 ## 改进
+去看了昨晚已经提交作业的Zoe的[小小日记](https://github.com/OpenMindClub/OMOOC2py/issues/26)
 
 
 

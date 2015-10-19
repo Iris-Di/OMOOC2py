@@ -1,6 +1,4 @@
-# OMOOC.py 周任务代码试作
-
-## 0wex1 Diary
+# 0wex1 Diary
 
 ### 思路
 第0周参考了太多的指南和教程，没有自己的思路，反而多走了很多弯路，这一次决定现有自己的想法，碰壁，再去寻求解决的方法。
@@ -19,6 +17,8 @@
 
 ### 写代码：
 靠学过的[Learn Python the Hard Way Exercise 16](http://learnpythonthehardway.org/book/ex16.html)中的知识点就能解决大多数问题，还算顺利的完成了基本的框架，在Windows系统中还待解决读取txt文档显示的问题，不懂的情况下乱试了encoding/decoding，果然是没有效的...回家看看任务概述后的提示卡片，拿Mac再实验下。
+
+
 
 
 

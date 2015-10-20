@@ -12,7 +12,7 @@
 
 
 ### 目标：
-1. 输入一行日记后，自动输出时间+日记（日记最重要的就是时间哪~）
+1. 输入一行日记后，自动输入时间+日记（日记最重要的就是时间哪~）
 2. 第一次运行创建txt文件
 3. 以后每次运行，添加一条时间+日记，保存
 4. 再次运行时，显示所有日记
@@ -22,6 +22,11 @@
 * 靠学过的[Learn Python the Hard Way Exercise 16](http://learnpythonthehardway.org/book/ex16.html)中的知识点就能解决大多数问题，还算顺利的完成了基本的框架，在Windows系统中还待解决读取txt文档显示的问题，不懂的情况下乱试了encoding/decoding，果然是没有效的...回家看看任务概述后的提示卡片，拿Mac再实验下。
 * 被a+，r+，w+能否创建新的txt文件所困扰，很不优雅的解决了问题，可以在Mac上成功运行[Diary.py](_src/om2py0w/README.md)。
 
+### 效果：
+1. 第一次运行在Diary.py所在文件夹创建diary.txt文件
+2. 在“How are you?"提问后，输入日记内容
+3. 以后每次运行，添加一条日记所记录时间+日记，保存
+4. 再次运行时，显示所有日记，并可以再次添加日记
 
 ## 待改进
 * 去看了昨晚已经提交作业的Zoe的[小小日记](https://github.com/OpenMindClub/OMOOC2py/issues/26)

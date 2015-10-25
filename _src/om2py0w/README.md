@@ -7,8 +7,8 @@
 
 ### 根据任务概述：
 * 完成一个极简交互式日记系统,需求如下:
-* 一次接收输入一行日记保存为本地文件
-* 再次运行系统时,能打印出过往的所有日记
+  * 一次接收输入一行日记保存为本地文件
+  * 再次运行系统时,能打印出过往的所有日记
 
 
 ### 目标：
@@ -34,6 +34,8 @@
    * README.md是隐藏问题= =
 
 ## 改进：
+在Mac中成功运行[Diary-Mac.py](https://github.com/Iris-Di/OMOOC2py/blob/master/_src/om2py0w/0wex1/Diary-Mac.py)
+
 在Windows中成功运行[Diary-Win.py](https://github.com/Iris-Di/OMOOC2py/blob/master/_src/om2py0w/0wex1/Diary-Win.py)
 
 

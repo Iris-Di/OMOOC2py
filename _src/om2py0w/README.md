@@ -43,6 +43,7 @@
 * raw_input()
 * while + break #保持输入
 * os.path.exists
+* open() 里的参数
 
 
 

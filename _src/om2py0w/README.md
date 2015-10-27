@@ -44,6 +44,7 @@
 * while + break #保持输入
 * os.path.exists
 * open() 里的参数
+* for in # 回读时的循环
 
 
 

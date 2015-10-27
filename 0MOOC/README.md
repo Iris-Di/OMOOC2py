@@ -10,4 +10,4 @@
 - 151017 Week1课堂笔记
 - 151019 Diary尝试
 - 151022 Diary修改
-- 151027 Github与Gitbook的迁移
+- 151026 Github与Gitbook的迁移

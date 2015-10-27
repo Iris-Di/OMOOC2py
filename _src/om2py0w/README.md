@@ -38,6 +38,12 @@
 
 在Windows中成功运行[Diary-Win.py](https://github.com/Iris-Di/OMOOC2py/blob/master/_src/om2py0w/0wex1/Diary-Win.py)
 
+## 演示1w任务
+技术点：
+* raw_input()
+* while + break #保持输入
+* os.path.exists
+
 
 
 

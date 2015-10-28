@@ -48,8 +48,9 @@
 * for in #回读时的循环*(不会在没有范围的情况下使用)*
 
 ## 2W任务
-看了一些教程，实在无法将W1编好的程序安放在图形界面中，只能从头开始看指南[An Introduction To Tkinter](http://effbot.org/tkinterbook/tkinter-index.htm)了。
+看了一些教程，实在无法将W1编好的代码安放在图形界面中，只能从头开始看指南[An Introduction To Tkinter](http://effbot.org/tkinterbook/tkinter-index.htm)了。
 
+### 笔记
 
 
 

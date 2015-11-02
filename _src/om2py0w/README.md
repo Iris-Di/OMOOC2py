@@ -50,6 +50,16 @@
 ## 2W任务
 看了一些案例教程，对于怎么将W1编好的代码安放在图形界面中还是无从下手，只能从头开始看指南[An Introduction To Tkinter](http://effbot.org/tkinterbook/tkinter-index.htm)了。
 
+### 任务概述
+Tkinter
+
+GUI 事务循环概念/使用
+
+基本排版
+
+基本图元
+
+GUI 的调试技巧
 
 
 
